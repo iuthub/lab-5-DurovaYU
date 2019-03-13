@@ -1,0 +1,2 @@
+Yuliya;MB;1232;Mastercard
+Sevara;MF;344;Visa
